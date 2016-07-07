@@ -1,2 +1,3 @@
 # asistencia-escolar
-hi
+
+Sistema para cargar alumnos, grados y asistencias.
